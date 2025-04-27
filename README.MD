@@ -1,7 +1,4 @@
 
-📄 README.md
-markdown
-
 # 🚀 Funds Management Backend
 
 A Django REST API project for managing Fund Families, Mutual Funds, and Portfolios.  
